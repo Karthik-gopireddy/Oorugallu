@@ -91,7 +91,7 @@ const CartPage = () => {
       key: "rzp_test_B9S8hmIWzP4YGf",
       amount: (totalAmount * 100), // amount in the smallest currency unit (paise)
       currency: "INR",
-      name: "AtoZ Ice-Creams.",
+      name: "Oorugallu Ruchullu.",
       description: "Test Transaction",
       // image: "24HR_LOGO_PNG.png",
       handler: async (response) => {
