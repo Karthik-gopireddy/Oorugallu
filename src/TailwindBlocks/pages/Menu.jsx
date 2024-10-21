@@ -104,7 +104,7 @@ const IceCreamMenu = () => {
       <div style={loadingContainerStyle}>
         <style>{spinAnimation}</style> {/* Include keyframes for animation */}
         <div style={spinnerStyle}></div> {/* Loading spinner */}
-        <p className="text-lg">Loading Ice Cream Menu...</p> {/* Optional loading text */}
+        <p className="text-lg">Loading Oorugallu Ruchullu Menu...</p> {/* Optional loading text */}
       </div>
     );
   }
